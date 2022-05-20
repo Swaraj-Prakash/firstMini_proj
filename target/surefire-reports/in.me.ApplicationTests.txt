@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: in.me.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.641 s - in in.me.ApplicationTests
